@@ -4,6 +4,7 @@
   grid-template-rows: auto auto;
   padding: 0 5%;
 }
+
 .cover-img-container {
   height: auto;
   overflow: hidden;
@@ -18,9 +19,9 @@
 }
 .cover-info-container {
   background: #32363e;
-
   color: #ffffff;
 }
+
 .category {
   text-decoration: none;
   outline: none;
@@ -59,11 +60,11 @@
     display: inline;
   }
   .cover-info-container {
-    display: inline;
-    width: 100%;
+    display: block;
+    /* width: 90%; */
+    padding: 15% 5%;
   }
   .cover-info-header {
-    margin: 10px 20px;
     font-size: 30px;
   }
 
