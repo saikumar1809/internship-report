@@ -2,8 +2,6 @@
   display: grid;
   grid-template-rows: auto auto;
   padding: 0 10%;
-  font-family: 'Neue Helvetica W01', 'Helvetica Neue', Helvetica, Arial,
-    sans-serif;
 }
 .cover-img-container {
   height: auto;
