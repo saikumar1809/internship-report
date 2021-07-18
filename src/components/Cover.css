@@ -2,6 +2,7 @@
   width: 90%;
   display: grid;
   grid-template-rows: auto auto;
+  padding: 0 5%;
 }
 .cover-img-container {
   height: auto;
