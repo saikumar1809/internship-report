@@ -1,7 +1,7 @@
 .cover {
+  width: 90%;
   display: grid;
   grid-template-rows: auto auto;
-  padding: 0 10%;
 }
 .cover-img-container {
   height: auto;
@@ -60,7 +60,6 @@
   .cover-info-container {
     display: inline;
     width: 100%;
-    padding: 10% 3px;
   }
   .cover-info-header {
     margin: 10px 20px;

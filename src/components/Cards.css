@@ -1,10 +1,10 @@
 .news-cards-container {
+  width: 90%;
   display: grid;
   height: 50%;
   font-family: 'Neue Helvetica W01', 'Helvetica Neue', Helvetica, Arial,
     sans-serif;
   grid-template-columns: 1fr;
-  padding: 0 10%;
 }
 .news-card {
   padding: 40px auto;
