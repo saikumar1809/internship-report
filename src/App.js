@@ -1,6 +1,6 @@
 import Cover from './components/Cover';
 import Cards from './components/Cards';
-import ReportsGroup from './components/ReportsGroup';
+
 import './App.css';
 
 function App() {
@@ -34,7 +34,7 @@ function App() {
           heading='What you need to know about the European Green Deal - and what comes next'
         />
       </div>
-      <ReportsGroup />
+      
     </div>
   );
 }
